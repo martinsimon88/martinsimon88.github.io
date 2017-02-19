@@ -4,6 +4,7 @@ This page is dedicated to my Master's Thesis project.
 
 Progress so far:
 
+![Another]({{ site.url }}/MachineLearningJan.jpg)
 ### January 2016
 <img src="MachineLearningJan.jpg" alt="Smiley face" align="middle">
 ### December 2016
