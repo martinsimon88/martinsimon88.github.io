@@ -1,5 +1,5 @@
 # Welcome to my Master's project: Machine Learning & Blended Wing Body
-
+<!---
 This page is dedicated to my Master's Thesis project.
 The aim of the project is to apply Machine Learning algorithms to enhance the development and usage of a lightweight Blended Wing Body (BWB) Unmanned Aerial Vehicle (UAV). 
 
@@ -43,7 +43,7 @@ The subtasks of the project can be listed as following:
 * Set up communications with BWB UAV
 * Set up transformation and classification pipeline on UAV onboard computer
 
-<!---
+
 Progress so far:
 
 ### January 2016
@@ -52,5 +52,5 @@ Progress so far:
 <img src="MachineLearningDec.jpg" alt="Smiley face" align="middle">
 -->
 
-For instructionss on how to set up an eGPU [eGPU on Dell](/eGPU_Dell/eGPU_Dell.html).)
+For instructions on how to set up an eGPU [eGPU on Dell](/eGPU_Dell/eGPU_Dell.html).)
 
