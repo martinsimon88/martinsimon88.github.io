@@ -43,15 +43,14 @@ The subtasks of the project can be listed as following:
 * Set up communications with BWB UAV
 * Set up transformation and classification pipeline on UAV onboard computer
 
-
+<!---
 Progress so far:
-
 
 ### January 2016
 ![Another](/MachineLearningJan.jpg)
 ### December 2016
 <img src="MachineLearningDec.jpg" alt="Smiley face" align="middle">
+-->
 
-
-For instructionss on how to set up an eGPU [eGPU on Dell](/eGPU_Dell/eGPU_Dell.html).
+For instructionss on how to set up an eGPU [eGPU on Dell](/eGPU_Dell/eGPU_Dell.html).)
 
