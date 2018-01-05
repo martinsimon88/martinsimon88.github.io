@@ -1,6 +1,7 @@
 # Welcome to my Master's project: Machine Learning & Blended Wing Body
 
-On this page my master's thesis project results will be posted after defense on the 17th of January 2018.
+Results will be posted after defense on the 17th of January 2018.
+
 The general aim of the project is to engineer a lightweight vertical take-off and landing unmanned aerial vehicle with an autonomous control system and a brain-computer interface.
 
 ## Within the scope of the thesis the following subtasks were solved:
@@ -12,18 +13,6 @@ The general aim of the project is to engineer a lightweight vertical take-off an
 ### 3. Optimize the aerodynamics of the drone using Bayesian optimization with Predictive Entropy Search Multi-objective Optimizer
 
 ### 4. Develop an EEG-based Brain-Computer Interface (BCI) control system
-* Set up communications with EPOC EMOTIV
-* Set up neural data transformation pipeline
-* Benchmark classification algorithms with crossvalidation:
-
-	a) Hidden Markov Models (HMM)
-	
-	b) Ensemble Methods (EM)
-
-	c) Multilayer Perceptrons (MLP)
-
-* Choose and combine (if necessary) classification algorithms
-* Test BCI system in a computer environment
 
 ## The following tasks are currently under development outside the scope of the thesis:
 
@@ -36,9 +25,6 @@ The general aim of the project is to engineer a lightweight vertical take-off an
 ### 3. Building a feature recognition system
 * Set up camera and telemetry system for BB UAV.
 * Set up software to recognize a 2m x 2m blanket as target for landing or package drop.
-
-
-
 <!---
 This page is dedicated to my Master's Thesis project.
 The aim of the project is to apply Machine Learning algorithms to enhance the development and usage of a lightweight Blended Wing Body (BWB) Unmanned Aerial Vehicle (UAV). 
