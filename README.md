@@ -3,15 +3,15 @@
 On this page my master's thesis project results will be posted after defense on the 17th of January 2018.
 The general aim of the project is to engineer a lightweight vertical take-off and landing unmanned aerial vehicle with an autonomous control system and a brain-computer interface.
 
-Within the scope of the thesis the following subtasks were solved:
+## Within the scope of the thesis the following subtasks were solved:
 
-## 1. Research and compare existing VTOL and BCI solutions
+### 1. Research and compare existing VTOL and BCI solutions
 
-## 2. Engineer the structure, electronics and propulsion system of the drone
+### 2. Engineer the structure, electronics and propulsion system of the drone
 
-## 3. Optimize the aerodynamics of the drone using Bayesian optimization with Predictive Entropy Search Multi-objective Optimizer
+### 3. Optimize the aerodynamics of the drone using Bayesian optimization with Predictive Entropy Search Multi-objective Optimizer
 
-## 4. Develop an EEG-based Brain-Computer Interface (BCI) control system
+### 4. Develop an EEG-based Brain-Computer Interface (BCI) control system
 * Set up communications with EPOC EMOTIV
 * Set up neural data transformation pipeline
 * Benchmark classification algorithms with crossvalidation:
@@ -25,15 +25,15 @@ Within the scope of the thesis the following subtasks were solved:
 * Choose and combine (if necessary) classification algorithms
 * Test BCI system in a computer environment
 
-The following tasks are currently under development outside the scope of the thesis:
+## The following tasks are currently under development outside the scope of the thesis:
 
-## 1. Build the drone 
+### 1. Build the drone 
 
-## 2. Set up an autonomous flight system
+### 2. Set up an autonomous flight system
 * Set up Raspberry Pi based autopilot system.
 * Test autopilot.
 
-## 3. Building a feature recognition system
+### 3. Building a feature recognition system
 * Set up camera and telemetry system for BB UAV.
 * Set up software to recognize a 2m x 2m blanket as target for landing or package drop.
 
